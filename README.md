@@ -1,0 +1,1 @@
+This project focuses on Simple Shell in the C programming language
