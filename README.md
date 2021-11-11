@@ -1,5 +1,5 @@
 ```sh
-     _____       _                     __    _____ _          _ _ 
+     _____       _                     __    _____ _          _ _
     / ____|     | |                   / _|  / ____| |        | | |
    | |  __  __ _| |_ ___  ___    ___ | |_  | (___ | |__   ___| | |
    | | |_ |/ _` | __/ _ \/ __|  / _ \|  _|  \___ \| '_ \ / _ \ | |
@@ -92,4 +92,3 @@ This project focuses on Simple Shell in the C programming language
  - kevin-oyugi
 
  - happyveev
- 
